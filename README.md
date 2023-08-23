@@ -1,2 +1,3 @@
 # UrbanStay-Insights-Through-PowerBI
-"🏙️ Explored NYC Airbnb Data with Power BI! Analyzed room types, neighborhood trends, and average prices. Revealed top-rated neighborhood group. Valuable insights for travelers and hosts. 📊🏠 #DataAnalysis #AirbnbNYC #PowerBI"
+
+Dive into the data-driven exploration of New York City's Airbnb landscape with my project, "UrbanStay Insights." Leveraging the analytical prowess of Power BI, this endeavor uncovers key trends encompassing room types, neighborhood preferences, average pricing dynamics, and the most acclaimed neighborhood group. Join me in navigating this captivating journey to gain deeper insights into the pulse of NYC's short-term rentals. #DataAnalysis #AirbnbTrends #PowerBI
